@@ -2,4 +2,4 @@ function favoriteAnimal(animal){
     return animal + " is my favorite animal";
 }
 
-console.log(favoriteAnimal("Dog"));
+    console.log(favoriteAnimal("Cats"));
